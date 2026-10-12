@@ -1,0 +1,15 @@
+{
+  "name": "caracois-backend",
+  "version": "1.0.0",
+  "description": "Backend do jogo A Revolu\u00e7\u00e3o dos Carac\u00f3is: di\u00e1logos de NPCs via Groq.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
